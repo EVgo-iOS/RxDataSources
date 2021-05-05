@@ -8,8 +8,6 @@
 
 import Foundation
 
-@_exported import Differentiator
-
 enum RxDataSourceError: Error {
   case preconditionFailed(message: String)
   case outOfBounds(indexPath: IndexPath)

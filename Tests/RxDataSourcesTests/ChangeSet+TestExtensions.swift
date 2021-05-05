@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Differentiator
 import RxDataSources
 
 fileprivate class ItemModelTypeWrapper<I> {

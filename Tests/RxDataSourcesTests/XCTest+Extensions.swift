@@ -8,7 +8,6 @@
 
 import Foundation
 import XCTest
-import Differentiator
 import RxDataSources
 
 func XCAssertEqual<S: AnimatableSectionModelType>(_ lhs: [S], _ rhs: [S], file: StaticString = #file, line: UInt = #line)

@@ -10,7 +10,6 @@ import UIKit
 import RxDataSources
 import RxCocoa
 import RxSwift
-import Differentiator
 
 // the trick is to just use enum for different section types
 class MultipleSectionModelViewController: UIViewController {

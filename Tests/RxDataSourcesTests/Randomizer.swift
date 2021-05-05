@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Differentiator
 import RxDataSources
 
 // https://en.wikipedia.org/wiki/Random_number_generation
